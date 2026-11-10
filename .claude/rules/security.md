@@ -5,7 +5,7 @@ paths:
 
 # Security Rules for Server Code
 
-Reference: `.claude/skills/_shared/references/security-rules.md` and `.claude/skills/_shared/references/security-rules.md`
+Reference: `.claude/skills/_shared/references/security-rules.md`
 
 ## Authentication
 - JWT-based auth via Supabase — NEVER re-implement CSRF tokens
